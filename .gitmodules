@@ -1,0 +1,9 @@
+[submodule "lib/Crow"]
+	path = lib/Crow
+	url = https://github.com/CrowCpp/Crow
+[submodule "lib/libpqxx"]
+	path = lib/libpqxx
+	url = https://github.com/jtv/libpqxx
+[submodule "lib/redis-cpp"]
+	path = lib/redis-cpp
+	url = https://github.com/tdv/redis-cpp
