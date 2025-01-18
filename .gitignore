@@ -1,0 +1,4 @@
+build/*
+resume_studio_backend
+.env
+.vscode
